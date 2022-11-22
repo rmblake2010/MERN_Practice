@@ -1,0 +1,17 @@
+{
+  "name": "mern_practice",
+  "version": "1.0.0",
+  "description": "remake of current project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "mern",
+    "express",
+    "postgres"
+  ],
+  "author": "ryan blake",
+  "license": "ISC"
+}
